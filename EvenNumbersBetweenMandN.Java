@@ -5,7 +5,7 @@ import java.util.*;
 class EvenNumbersSumBetweenMandN
 {
 	/*
-	*This method is to print the number between m and n.
+	*This method is to print the even number between m and n.
 	*@parameter: [m] is used to take starting value and [n] is used to take last value.
 	*@Return : no return type.
 	*/
