@@ -30,7 +30,7 @@ class EvenNumbersSumBetweenMandN
 		
 		System.out.println("______________________");
 		
-		// creating evennobetween object to call number method.
+		// creating EvenNumbersBetweenMandN object to call number method.
 		EvenNumbersSumBetweenMandN ns1 = new EvenNumbersSumBetweenMandN();
 		ns1.number(m,n);
  	}
