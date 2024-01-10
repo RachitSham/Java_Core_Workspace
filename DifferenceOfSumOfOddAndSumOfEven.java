@@ -38,7 +38,7 @@ class DifferenceOfSumOfOddAndSumOfEven
 		
 		System.out.println("______________________");
 		
-		// creating
+		// creating DifferenceOfSumOfOddAndSumOfEven object to call even method.
 		DifferenceOfSumOfOddAndSumOfEven so1 = new DifferenceOfSumOfOddAndSumOfEven();
 		so1.Even(m,n);
 	}
