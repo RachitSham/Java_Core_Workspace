@@ -39,7 +39,7 @@ class DifferenceOfSumOfOddAndSumOfEven
 		System.out.println("______________________");
 		
 		// creating
-		EvenSumOdd so = new EvenSumOdd();
-		so.Even(m,n);
+		DifferenceOfSumOfOddAndSumOfEven so1 = new DifferenceOfSumOfOddAndSumOfEven();
+		so1.Even(m,n);
 	}
 }
