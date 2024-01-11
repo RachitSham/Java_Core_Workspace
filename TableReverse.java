@@ -6,7 +6,7 @@ public class TableReverse
 {
 	/*
 	*this method is used to print the table reverse.
-	*@Parameter : [s] is used for starting table number , and [n] is used for ending table number.
+	*@Parameter : [s] is used for starting table number.
 	*@Return : no return type.
 	*/
 	public void reverse(int s)
